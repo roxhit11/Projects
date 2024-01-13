@@ -19,10 +19,10 @@ function Foreground() {
     {
       desc: "Find out who you are and do it on purpose. — Dolly Parton.",
       filesize: ".9md",
-      close: false,
+      close: true,
       tag: {
         isOpen: true,
-        tagTitle: "Download Now",
+        tagTitle: "Pending",
         tagColor: "blue",
       }
     },
@@ -32,7 +32,7 @@ function Foreground() {
       close: true,
       tag: {
         isOpen: true,
-        tagTitle: "Upload",
+        tagTitle: "Uploaded",
         tagColor: "green",
       }
     },
@@ -42,7 +42,7 @@ function Foreground() {
       close: true,
       tag: {
         isOpen: true,
-        tagTitle: "Create",
+        tagTitle: "New",
         tagColor: "green",
       },
     }
