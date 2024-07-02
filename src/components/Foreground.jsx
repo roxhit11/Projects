@@ -46,6 +46,7 @@ function Foreground() {
         tagColor: "green",
       },
     }
+    
   ];
 
   return (
